@@ -1,5 +1,5 @@
 # VelcUnNomet
-##Veicamo uzdevumu saraksts:
+## Veicamo uzdevumu saraksts:
 - [x] Izveidot GitHub repo 
 - [ ] Sagatavot Unity projektu darba uzsākšanai (mapes, bildes, skaņas)
 - [ ] Realizēt objektu vilkšanu un nomešanu (uz kartes, nepareizi, pareizi)
